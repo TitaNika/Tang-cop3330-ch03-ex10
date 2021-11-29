@@ -3,7 +3,6 @@
  *  Copyright 2021 Tony Tang
  */
 
-
 #include "std_lib_facilities.h"
 
 int main()
